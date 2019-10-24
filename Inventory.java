@@ -3,8 +3,7 @@ import java.util.*;
 
 /**
  *
- * @author TacticsTurtle
- */
+
 public class Inventory {
 
     private String manufacturer;

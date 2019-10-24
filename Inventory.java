@@ -2,6 +2,7 @@ package inventory;
 
 import java.util.*;
 
+
 public class Inventory {
 
     private String manufacturer;
